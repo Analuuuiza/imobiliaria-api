@@ -24,4 +24,9 @@ class ClienteController extends Controller
             "data" => $cliente
         ], 200);
     }
+
+    public function pesquisaPorId($id){
+        return ClienteModel::find($id);
+    }
+
 }
