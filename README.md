@@ -30,7 +30,7 @@ composer update
 ```
 4. Copiando o .env do exemplo
 ```
-copy .env.exemple .env
+copy .env.example .env
 ```
 5. Acessar o Visual Studio Code
 ```
