@@ -32,7 +32,12 @@ composer update
 ```
 copy .env.example .env
 ```
-5. Acessar o Visual Studio Code
+5. Copiando git "user.name" e git "user.email"
+```
+git config --global user.name "analuuuiza"
+git config --global user.email "anaedara123@gmail.com"
+```
+6. Acessar o Visual Studio Code
 ```
 code .
 ```
